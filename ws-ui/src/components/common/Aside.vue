@@ -12,7 +12,7 @@
     >
       <h3>{{isCollapse?'互评':'作业互评系统'}}</h3>
       <!--没有二级菜单-->
-<!--      vghfbv-->
+<!--      vghfbvaa-->
       <el-menu-item
         v-for="item in noChildren"
         :key="item.name"
